@@ -3,7 +3,7 @@
 	The default template loads this file when there is a valid
 	post that results from a WP query for pages.
 -->
-
+<link rel="stylesheet" type="text/css" href="screen.scss" />
 <div>
 HELOOOOOOOO
 

@@ -4,6 +4,12 @@
 	post that results from a WP query for pages.
 -->
 
+<div>
+
+GIT HELLO WORLD
+
+</div>
+
 <div class="col-md-12 intro">
 	<h1 style="text-transform: uppercase;"><?php the_title(); ?></h1>
 	<?php the_content(); ?>
